@@ -14,4 +14,3 @@ Transforming the real topology with all of it´s devices and routes into a virtu
 
 * develop a technical concept
 
-* to be continued.....
