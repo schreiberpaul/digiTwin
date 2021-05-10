@@ -12,11 +12,12 @@ Transforming the real topology with all of it´s devices and routes into a virtu
   *  routing deamons
   *  virtualization (Quemu with Openwrt)
   *  mesh topology
-
+- [ ] check & add related work with references
 - [ ] develop a technical concept
 - [ ] determine hardware and software requirements
-- [ ] implementation
+- [ ] implementation/programming
 - [ ] validation
+- [ ] develop technical documentation/user guide
 - [ ] view/outlook
 
 <!--
