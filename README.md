@@ -13,6 +13,8 @@ Transforming the real topology with all of it´s devices and routes into a virtu
   *  mesh topology
 
 * develop a technical concept
+* determine hardware and software requirements
+* further steps....
 
 ## ToDo List:
 - [ ] Check & Add Related Work with References
