@@ -8,10 +8,8 @@ Transforming the real topology with all of it´s devices and routes into a virtu
 
 
 ## Milestones
-- [ ] get familiar with the basics
-  *  routing deamons
-  *  virtualization (Quemu with Openwrt)
-  *  mesh topology
+- [ ] preliminary considerations
+  *  virtualization (compare full-/para-/userspace- virtualization)
 - [ ] check & add related work with references
 - [ ] develop a technical concept
 - [ ] determine hardware and software requirements
