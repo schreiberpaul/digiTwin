@@ -7,14 +7,18 @@ Evernet is a community based rural mesh network based on Freifunk principles org
 Transforming the real topology with all of it´s devices and routes into a virtual (digital) twin with which it ist possible to perform test and firmware upgrades to ensure full functionality before testing in productive environment.
 
 
-## 3. Milestones
+## 3. Intro
 - [ ] preliminary considerations
   *  virtualization (compare full-/para-/userspace- virtualization, find suitable virtualization solution)
   *  check & add related work with references
+  *  OLSR routing - fetching network topology into network graph
 - [ ] develop a technical concept
-- [ ] determine hardware and software requirements
+
+## 4. Implementation
 - [ ] implementation/programming
 - [ ] validation
+
+## 5. Conclusion
 - [ ] develop technical documentation/user guide
 - [ ] view/outlook
 
