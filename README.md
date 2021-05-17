@@ -15,7 +15,7 @@ Transforming the real topology with all of it´s devices and routes into a virtu
 - [ ] develop a technical concept
 
 ## 4. Implementation
-- [ ] implementation/programming
+- [ ] programming/testing
 - [ ] validation
 
 ## 5. Conclusion
