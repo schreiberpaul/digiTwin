@@ -11,7 +11,7 @@ Transforming the real topology with all of it´s devices and routes into a virtu
 - [ ] preliminary considerations
   *  virtualization (compare full-/para-/userspace- virtualization, find suitable virtualization solution) 
   *  check & add related work with references
-  *  OLSR routing - fetching network topology into network graph
+  *  routing - fetching network topology from different protocols into network graph
 - [ ] develop a technical concept - determine requirements
 
 ## 4. Implementation
