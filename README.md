@@ -9,7 +9,7 @@ Transforming the real topology with all of it´s devices and routes into a virtu
 
 ## Milestones
 - [ ] preliminary considerations
-  *  virtualization (compare full-/para-/userspace- virtualization)
+  *  virtualization (compare full-/para-/userspace- virtualization, find suitable virtualization solution)
 - [ ] check & add related work with references
 - [ ] develop a technical concept
 - [ ] determine hardware and software requirements
