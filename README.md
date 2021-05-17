@@ -10,7 +10,7 @@ Transforming the real topology with all of it´s devices and routes into a virtu
 ## 3. Intro
 - [ ] preliminary considerations
   *  virtualization (compare full-/para-/userspace- virtualization, find suitable virtualization solution)
-    * Test different vitrualization solutions on local PC   
+    *  Test different virtualization solutions on local PC   
   *  check & add related work with references
   *  OLSR routing - fetching network topology into network graph
 - [ ] develop a technical concept
